@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csprojAssemblyReference.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfo.cs
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.exe
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.deps.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.dev.json
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.dll
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.pdb
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csproj.CopyComplete
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.dll
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.pdb
+\\Mac\Home\Documents\codefellows\401\Dotnet\Lab09-LINQ\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.genruntimeconfig.cache
